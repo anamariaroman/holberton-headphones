@@ -21,13 +21,3 @@ Final result:
 **Mobile:**
 
 ![Mobile header](images/Mobile_header.gif)
-
-
-
-**Desktop:**
-
-![Desktop footer](images/Desktop_footer.gif)
-
-**Mobile:**
-
-![Mobile footer](images/Mobile_footer.gif)
